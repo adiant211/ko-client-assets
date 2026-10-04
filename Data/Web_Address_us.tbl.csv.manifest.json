@@ -1,0 +1,38 @@
+{
+  "generator": "build_scripts/ko1534/export_client_tables.py",
+  "generator_version": "1.0.0",
+  "source": {
+    "path": "Data/Web_Address_us.tbl",
+    "sha256": "1dfca114b46fa6f01b4833c7dfbbcf744beb667cee078ec6b7553d6239bb21c4",
+    "bytes": 861
+  },
+  "export": {
+    "path": "Data/Web_Address_us.tbl.csv",
+    "sha256": "06b45df0b157f366e4821c2e1a8b11e2b97136470f8704a00c6b49c5e0707a9d",
+    "bytes": 1005,
+    "encoding": "utf-8",
+    "line_terminator": "\r\n",
+    "header_first_line": "\"1 - UInt32\",\"2 - String\",\"3 - String\",\"4 - Byte\",\"5 - String\",\"6 - Byte\",\"7 - String\",\"8 - Byte\",\"9 - String\",\"10 - Byte\""
+  },
+  "schema": {
+    "columns": 10,
+    "types": [
+      6,
+      7,
+      7,
+      2,
+      7,
+      2,
+      7,
+      2,
+      7,
+      2
+    ],
+    "key_column": 0,
+    "truncated_prefix_columns": 0
+  },
+  "rows": 8,
+  "mode": "full",
+  "subset_reason": null,
+  "filter": null
+}
