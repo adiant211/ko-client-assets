@@ -1,0 +1,48 @@
+{
+  "generator": "build_scripts/ko1534/export_client_tables.py",
+  "generator_version": "1.0.0",
+  "source": {
+    "path": "Data/Exchange_Quest.tbl",
+    "sha256": "211700f8eff7d7fb8db15a2ffa89c6d03baf00e3fe5c1c1871aeb5c17ab5b33d",
+    "bytes": 18580
+  },
+  "export": {
+    "path": "Data/Exchange_Quest.tbl.csv",
+    "sha256": "32a7814dc8ac8deaad5586df9eac3c22ccdec003109aad3b1518d95c77813df4",
+    "bytes": 40477,
+    "encoding": "utf-8",
+    "line_terminator": "\r\n",
+    "header_first_line": "\"1 - UInt32\",\"2 - UInt32\",\"3 - String\",\"4 - Int32\",\"5 - Int32\",\"6 - Int32\",\"7 - Int32\",\"8 - Int32\",\"9 - Byte\",\"10 - Byte\",\"11 - Byte\",\"12 - Byte\",\"13 - Byte\",\"14 - Byte\",\"15 - Int32\",\"16 - Int32\",\"17 - Int32\",\"18 - Int32\",\"19 - Int32\",\"20 - Int32\""
+  },
+  "schema": {
+    "columns": 20,
+    "types": [
+      6,
+      6,
+      7,
+      5,
+      5,
+      5,
+      5,
+      5,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "key_column": 0,
+    "truncated_prefix_columns": 0
+  },
+  "rows": 222,
+  "mode": "full",
+  "subset_reason": null,
+  "filter": null
+}

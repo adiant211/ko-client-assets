@@ -1,0 +1,61 @@
+{
+  "generator": "build_scripts/ko1534/export_client_tables.py",
+  "generator_version": "1.0.0",
+  "source": {
+    "path": "Data/Skill_Magic_Main_us.tbl",
+    "sha256": "73d2c4678aace7bfd6d8e32f943539841e24a1d947db5628e80bb0242326327b",
+    "bytes": 350164
+  },
+  "export": {
+    "path": "Data/Skill_Magic_Main_us.tbl.csv",
+    "sha256": "6dbb2575c75a5617b462520c750cd5572e3f1b3c42acadca5d2133004fe09fc2",
+    "bytes": 412421,
+    "encoding": "utf-8",
+    "line_terminator": "\r\n",
+    "header_first_line": "\"1 - UInt32\",\"2 - String\",\"3 - String\",\"4 - String\",\"5 - Int32\",\"6 - Int32\",\"7 - Int32\",\"8 - Int32\",\"9 - Int32\",\"10 - Int32\",\"11 - Int32\",\"12 - Int32\",\"13 - Int32\",\"14 - Int32\",\"15 - Int32\",\"16 - Int32\",\"17 - Int32\",\"18 - Int32\",\"19 - Int32\",\"20 - UInt32\",\"21 - UInt32\",\"22 - Int32\",\"23 - Int32\",\"24 - Single\",\"25 - Single\",\"26 - Int32\",\"27 - UInt32\",\"28 - UInt32\",\"29 - Int32\",\"30 - Int32\",\"31 - UInt32\",\"32 - Int32\",\"33 - UInt32\""
+  },
+  "schema": {
+    "columns": 33,
+    "types": [
+      6,
+      7,
+      7,
+      7,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      6,
+      6,
+      5,
+      5,
+      8,
+      8,
+      5,
+      6,
+      6,
+      5,
+      5,
+      6,
+      5,
+      6
+    ],
+    "key_column": 0,
+    "truncated_prefix_columns": 0
+  },
+  "rows": 1864,
+  "mode": "full",
+  "subset_reason": null,
+  "filter": null
+}

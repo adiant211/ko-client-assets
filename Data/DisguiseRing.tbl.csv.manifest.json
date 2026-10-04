@@ -1,0 +1,35 @@
+{
+  "generator": "build_scripts/ko1534/export_client_tables.py",
+  "generator_version": "1.0.0",
+  "source": {
+    "path": "Data/DisguiseRing.tbl",
+    "sha256": "ae0b500bd782d3ae5e8dfb93c92572ce4034f95fc3f92aa1369ab9851942bbf3",
+    "bytes": 1911
+  },
+  "export": {
+    "path": "Data/DisguiseRing.tbl.csv",
+    "sha256": "e44d0fd6c4f2f4db9eb74e6d0059233f836400e83f1dd7b482d2ca89fd6ae50d",
+    "bytes": 3095,
+    "encoding": "utf-8",
+    "line_terminator": "\r\n",
+    "header_first_line": "\"1 - UInt32\",\"2 - String\",\"3 - Int32\",\"4 - UInt32\",\"5 - UInt32\",\"6 - Byte\",\"7 - String\""
+  },
+  "schema": {
+    "columns": 7,
+    "types": [
+      6,
+      7,
+      5,
+      6,
+      6,
+      2,
+      7
+    ],
+    "key_column": 0,
+    "truncated_prefix_columns": 0
+  },
+  "rows": 51,
+  "mode": "full",
+  "subset_reason": null,
+  "filter": null
+}
