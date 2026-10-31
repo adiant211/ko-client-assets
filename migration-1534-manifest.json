@@ -48619,7 +48619,7 @@
   },
   {
    "path": "Data/Skill_Magic_Main_us.tbl",
-   "sha256": "5bcaeedd205055e63d35ea7d3bd26f34faf43ce7c5a322ed9cbdac9016e47c98",
+   "sha256": "a5eac9ace367e8abd92637ab431efadad5484b71ad9abdba0638fe2d85719432",
    "bytes": 377874,
    "provenance": "existing-fork-table",
    "sourceSha256": null
